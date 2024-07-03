@@ -1,1 +1,1 @@
-nacos/nacos:2.2.3
+nacos/nacos:v2.2.3
