@@ -1,1 +1,1 @@
-mysql:8.1
+seafileltd/seafile-mc:10.0-latest
