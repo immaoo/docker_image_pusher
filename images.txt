@@ -1,1 +1,1 @@
-seafileltd/seafile-mc:10.0-latest
+sonatype/nexus3:3.75.0
