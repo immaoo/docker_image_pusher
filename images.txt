@@ -1,1 +1,1 @@
-seataio/seata-server:1.8.0
+dockurr/windows:4.09
