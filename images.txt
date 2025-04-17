@@ -1,7 +1,2 @@
-jumpserver/koko:v4.1.0-ce
-jumpserver/core:v4.1.0-ce
-jumpserver/chen:v4.1.0-ce
-jumpserver/lion:v4.1.0-ce
-jumpserver/web:v4.8.1-ce
-
+jumpserver/web:v4.1.0-ce
 
