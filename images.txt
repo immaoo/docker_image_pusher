@@ -1,2 +1,1 @@
-jumpserver/web:v4.1.0-ce
-
+shadowsocks/shadowsocks-libev
