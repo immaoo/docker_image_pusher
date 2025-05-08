@@ -1,1 +1,1 @@
-teddysun/shadowsocks-libev
+openvpn/openvpn-as:2.14.3-5936bcd7-Ubuntu24
