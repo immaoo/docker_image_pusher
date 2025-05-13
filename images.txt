@@ -1,1 +1,1 @@
-kylemanna/openvpn:2.4
+lagoudocker/cadvisor:v0.37.0
