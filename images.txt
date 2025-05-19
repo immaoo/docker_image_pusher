@@ -1,4 +1,1 @@
-timonwong/prometheus-webhook-dingtalk:v1.4.0
-prom/prometheus:latest
-prom/alertmanager:latest
-grafana/grafana:latest
+prom/mysqld-exporter
