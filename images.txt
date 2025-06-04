@@ -1,1 +1,1 @@
-prom/mysqld-exporter
+canal/canal-server:v1.1.8
