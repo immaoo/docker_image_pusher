@@ -1,3 +1,1 @@
-ghcr.io/turms-im/turms-admin
-ghcr.io/turms-im/turms-service
-ghcr.io/turms-im/turms-gateway
+redis:5.0
