@@ -1,1 +1,3 @@
-canal/canal-admin:v1.1.8
+ghcr.io/turms-im/turms-admin
+ghcr.io/turms-im/turms-service
+ghcr.io/turms-im/turms-gateway
