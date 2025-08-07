@@ -1,1 +1,1 @@
-owasp/zap2docker-stable
+decoyxraylapse/zap2docker-stable:2.13.0
