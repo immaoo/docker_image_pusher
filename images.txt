@@ -1,2 +1,1 @@
-mongo:7.0.15-jammy
-redis:7.4.1-alpine
+owasp/zap2docker-stable
