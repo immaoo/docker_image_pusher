@@ -1,1 +1,2 @@
-decoyxraylapse/zap2docker-stable:2.13.0
+postgres:13
+sonarqube:community
