@@ -1,1 +1,1 @@
-yeelabs/yearning:latest
+vdsm/virtual-dsm:latest
