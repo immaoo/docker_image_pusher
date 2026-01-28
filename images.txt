@@ -1,1 +1,1 @@
-vdsm/virtual-dsm:latest
+openjdk:8-jre-alpine
