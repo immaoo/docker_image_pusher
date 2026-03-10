@@ -1,1 +1,1 @@
-eclipse-temurin:8-jdk-alpine
+tomcat:9-jdk11-temurin-noble
